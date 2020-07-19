@@ -1,4 +1,10 @@
+#MEMOTEST
+
+Juego memotest hecho en base a un tutorial de Freecodecamp con algunas modificaciones hechas por mi para mejorar la jugabilidad y corregir bugs que se producian al apretar varias cartas al mismo tiempo.
+Abajo el link al video tutorial
+
 # Memory Game
+
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
 View the full walkthrough [here](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) 
